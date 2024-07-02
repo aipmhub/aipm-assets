@@ -1,6 +1,6 @@
 {
   "background_color": "#000000",
-  "description": "Empowering your AI dreams with LobeHub",
+  "description": "Empowering your AI dreams with AiPMHub",
   "display": "fullscreen",
   "icons": [
     {
@@ -28,11 +28,11 @@
       "purpose": "maskable"
     }
   ],
-  "name": "LobeHub",
+  "name": "AiPMHub",
   "orientation": "portrait",
   "scope": "/",
   "id": "/",
-  "short_name": "LobeHub",
+  "short_name": "AiPMHub",
   "splash_pages": null,
   "start_url": "/",
   "theme_color": "#000000"

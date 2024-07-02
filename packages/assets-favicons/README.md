@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="160" src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp">
+  <img width="160" src="https://npm.elemecdn.com/@aipmorg/assets/logo/logo-3d.webp">
 </p>
-<h1 align="center">@lobehub/assets-favicons</h1>
+<h1 align="center">@aipmorg/assets-favicons</h1>
 
 <div align="center">
 
-Logo assets, favicons, webfonts for LobeHub
+Logo assets, favicons, webfonts for AiPMHub
 
 [Changelog](./CHANGELOG.md) · [Report Bug][issues-url] · [Request Feature][issues-url]
 
@@ -25,13 +25,13 @@ Logo assets, favicons, webfonts for LobeHub
 
 #### 📝 License
 
-Copyright © 2023 [LobeHub][profile-url]. <br />
+Copyright © 2024 [AiPMHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
-[profile-url]: https://github.com/lobehub
-[gitpod-url]: https://gitpod.io/#https://github.com/lobehub/lobe-assets
+[profile-url]: https://github.com/aipmhub
+[gitpod-url]: https://gitpod.io/#https://github.com/aipmhub/aipm-assets
 
 <!-- SHIELD LINK GROUP -->
 
@@ -39,35 +39,35 @@ This project is [MIT](./LICENSE) licensed.
 
 <!-- release -->
 
-[release-shield]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
-[release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
+[release-shield]: https://img.shields.io/npm/v/@aipmorg/assets-favicons?label=%F0%9F%A4%AF%20NPM
+[release-url]: https://www.npmjs.com/package/@aipmorg/assets-favicons
 
 <!-- releaseDate -->
 
-[release-date-shield]: https://img.shields.io/github/release-date/lobehub/lobe-assets?style=flat
-[release-date-url]: https://github.com/lobehub/lobe-assets/releases
+[release-date-shield]: https://img.shields.io/github/release-date/aipmhub/aipm-assets?style=flat
+[release-date-url]: https://github.com/aipmhub/aipm-assets/releases
 
 <!-- ciRelease -->
 
-[ci-release-shield]: https://github.com/lobehub/lobe-assets/workflows/Release%20CI/badge.svg
-[ci-release-url]: https://github.com/lobehub/lobe-assets/actions?query=workflow%3ARelease%20CI
+[ci-release-shield]: https://github.com/aipmhub/aipm-assets/workflows/Release%20CI/badge.svg
+[ci-release-url]: https://github.com/aipmhub/aipm-assets/actions?query=workflow%3ARelease%20CI
 
 <!-- contributors -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-assets.svg?style=flat
-[contributors-url]: https://github.com/lobehub/lobe-assets/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/aipmhub/aipm-assets.svg?style=flat
+[contributors-url]: https://github.com/aipmhub/aipm-assets/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-assets.svg?style=flat
-[forks-url]: https://github.com/lobehub/lobe-assets/network/members
+[forks-shield]: https://img.shields.io/github/forks/aipmhub/aipm-assets.svg?style=flat
+[forks-url]: https://github.com/aipmhub/aipm-assets/network/members
 
 <!-- stargazers -->
 
-[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-assets.svg?style=flat
-[stargazers-url]: https://github.com/lobehub/lobe-assets/stargazers
+[stargazers-shield]: https://img.shields.io/github/stars/aipmhub/aipm-assets.svg?style=flat
+[stargazers-url]: https://github.com/aipmhub/aipm-assets/stargazers
 
 <!-- issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-assets.svg?style=flat
-[issues-url]: https://github.com/lobehub/lobe-assets/issues/new/choose
+[issues-shield]: https://img.shields.io/github/issues/aipmhub/aipm-assets.svg?style=flat
+[issues-url]: https://github.com/aipmhub/aipm-assets/issues/new/choose

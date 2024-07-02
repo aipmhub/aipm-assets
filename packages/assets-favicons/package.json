@@ -1,20 +1,20 @@
 {
-  "name": "@lobehub/assets-favicons",
+  "name": "@aipmorg/assets-favicons",
   "version": "1.5.0",
-  "description": "Favicons for LobeHub",
+  "description": "Favicons for AiPMHub",
   "keywords": [
     "favicon"
   ],
-  "homepage": "https://github.com/lobehub/lobe-assets",
+  "homepage": "https://github.com/aipmhub/aipm-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/aipmhub/aipm-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/aipmhub/aipm-assets.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "AiPMHub <nextprofessionalpower@gmail.com>",
   "sideEffects": false,
   "files": [
     "assets"
