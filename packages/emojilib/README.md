@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="https://npm.elemecdn.com/@lobehub/assets/logo/logo-3d.webp">
+  <img width="160" src="https://npm.elemecdn.com/@aipmorg/assets/logo/logo-3d.webp">
 </p>
 <h1 align="center">@lobehub/emojilib</h1>
 
@@ -25,49 +25,39 @@ Emoji data from unicode.org"
 
 #### 📝 License
 
-Copyright © 2023 [LobeHub][profile-url]. <br />
+Copyright © 2024 [AiPMHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
-[profile-url]: https://github.com/lobehub
-[gitpod-url]: https://gitpod.io/#https://github.com/lobehub/lobe-assets
-
 <!-- SHIELD LINK GROUP -->
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 
 <!-- release -->
 
-[release-shield]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
-[release-url]: https://www.npmjs.com/package/@lobehub/emojilib
-
 <!-- releaseDate -->
-
-[release-date-shield]: https://img.shields.io/github/release-date/lobehub/lobe-assets?style=flat
-[release-date-url]: https://github.com/lobehub/lobe-assets/releases
 
 <!-- ciRelease -->
 
-[ci-release-shield]: https://github.com/lobehub/lobe-assets/workflows/Release%20CI/badge.svg
-[ci-release-url]: https://github.com/lobehub/lobe-assets/actions?query=workflow%3ARelease%20CI
-
 <!-- contributors -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-assets.svg?style=flat
-[contributors-url]: https://github.com/lobehub/lobe-assets/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-assets.svg?style=flat
-[forks-url]: https://github.com/lobehub/lobe-assets/network/members
-
 <!-- stargazers -->
-
-[stargazers-shield]: https://img.shields.io/github/stars/lobehub/lobe-assets.svg?style=flat
-[stargazers-url]: https://github.com/lobehub/lobe-assets/stargazers
 
 <!-- issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-assets.svg?style=flat
-[issues-url]: https://github.com/lobehub/lobe-assets/issues/new/choose
+[ci-release-shield]: https://github.com/aipmhub/aipm-assets/workflows/Release%20CI/badge.svg
+[ci-release-url]: https://github.com/aipmhub/aipm-assets/actions?query=workflow%3ARelease%20CI
+[contributors-shield]: https://img.shields.io/github/contributors/aipmhub/aipm-assets.svg?style=flat
+[contributors-url]: https://github.com/aipmhub/aipm-assets/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aipmhub/aipm-assets.svg?style=flat
+[forks-url]: https://github.com/aipmhub/aipm-assets/network/members
+[issues-shield]: https://img.shields.io/github/issues/aipmhub/aipm-assets.svg?style=flat
+[issues-url]: https://github.com/aipmhub/aipm-assets/issues/new/choose
+[profile-url]: https://github.com/lobehub
+[release-date-shield]: https://img.shields.io/github/release-date/aipmhub/aipm-assets?style=flat
+[release-date-url]: https://github.com/aipmhub/aipm-assets/releases
+[release-shield]: https://img.shields.io/npm/v/@lobehub/emojilib?label=%F0%9F%A4%AF%20NPM
+[release-url]: https://www.npmjs.com/package/@lobehub/emojilib
+[stargazers-shield]: https://img.shields.io/github/stars/aipmhub/aipm-assets.svg?style=flat
+[stargazers-url]: https://github.com/aipmhub/aipm-assets/stargazers

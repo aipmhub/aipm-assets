@@ -1,20 +1,20 @@
 {
   "name": "@lobehub/webfont-harmony-sans-sc",
   "version": "1.0.0",
-  "description": "Webfont HarmonyOS Sans SC for LobeHub",
+  "description": "Webfont HarmonyOS Sans SC for AiPMHub",
   "keywords": [
     "webfont"
   ],
-  "homepage": "https://github.com/lobehub/lobe-assets",
+  "homepage": "https://github.com/aipmhub/aipm-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/aipmhub/aipm-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/aipmhub/aipm-assets.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "AiPMHub <nextprofessionalpower@gmail.com>",
   "sideEffects": false,
   "files": [
     "fonts",

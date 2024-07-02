@@ -1,23 +1,23 @@
 {
-  "name": "@lobehub/assets",
-  "version": "0.0.0",
+  "name": "@aipmorg/assets",
+  "version": "1.2.0",
   "private": true,
-  "description": "Logo assets, favicons, webfonts for LobeHub",
+  "description": "Logo assets, favicons, webfonts for AiPMHub",
   "keywords": [
     "logo",
     "favicon",
     "webfont"
   ],
-  "homepage": "https://github.com/lobehub/lobe-assets",
+  "homepage": "https://github.com/aipmhub/aipm-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/aipmhub/aipm-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/aipmhub/aipm-assets.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "AiPMHub <nextprofessionalpower@gmail.com>",
   "sideEffects": false,
   "workspaces": [
     "packages/*"
@@ -57,8 +57,8 @@
     ]
   },
   "devDependencies": {
+    "@aipmorg/lint": "latest",
     "@commitlint/cli": "^18",
-    "@lobehub/lint": "latest",
     "@types/node": "latest",
     "clean-pkg-json": "^1",
     "cli-real-favicon": "latest",

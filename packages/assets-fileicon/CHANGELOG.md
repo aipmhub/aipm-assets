@@ -17,7 +17,7 @@
 
 #### What's improved
 
-- **misc**: Add fileicons ([3318ea6](https://github.com/lobehub/lobe-assets/commit/3318ea6))
+- **misc**: Add fileicons ([3318ea6](https://github.com/aipmhub/aipm-assets/commit/3318ea6))
 
 </details>
 

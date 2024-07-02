@@ -10,7 +10,7 @@
         "precomposedIcons": false,
         "declareOnlyDefaultIcon": true
       },
-      "appName": "LobeHub"
+      "appName": "AiPMHub"
     },
     "desktopBrowser": {
       "design": "raw"
@@ -28,13 +28,13 @@
           "rectangle": true
         }
       },
-      "appName": "LobeHub"
+      "appName": "AiPMHub"
     },
     "androidChrome": {
       "pictureAspect": "noChange",
       "themeColor": "#000000",
       "manifest": {
-        "name": "LobeHub",
+        "name": "AiPMHub",
         "display": "standalone",
         "orientation": "notSet",
         "onConflict": "override",

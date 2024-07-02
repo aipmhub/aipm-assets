@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.0.0
+## Version 1.0.0
 
 <sup>Released on **2023-07-26**</sup>
 
@@ -17,7 +17,7 @@
 
 #### What's improved
 
-- **misc**: Add animation emoji ([d1f0a0c](https://github.com/lobehub/lobe-assets/commit/d1f0a0c))
+- **misc**: Add animation emoji ([d1f0a0c](https://github.com/aipmhub/aipm-assets/commit/d1f0a0c))
 
 </details>
 

@@ -5,16 +5,16 @@
   "keywords": [
     "unicode-emoji"
   ],
-  "homepage": "https://github.com/lobehub/lobe-assets",
+  "homepage": "https://github.com/aipmhub/aipm-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/aipmhub/aipm-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/aipmhub/aipm-assets.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "AiPMHub <nextprofessionalpower@gmail.com>",
   "sideEffects": false,
   "main": "index.json",
   "files": [
